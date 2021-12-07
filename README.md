@@ -1,5 +1,4 @@
-# SAMPLE README
+#SAMPLE README
 Get this ON. This is a sample readme folder
 modify
-
-issue 
+on a branch causing an issue
